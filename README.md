@@ -1,5 +1,1 @@
-# deneme1
-## deneme2
-### deneme3
-Test repo
-bu bir eklentidir.
+Bu tamamen degismistir.
